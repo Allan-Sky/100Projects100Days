@@ -1,11 +1,11 @@
-### day 1 of #100projectsIn100Days from florinpop17
+# day 1 of #100projectsIn100Days from florinpop17
 
-### Meal generator 
+## Meal generator 
 
-# this project i used Create-React-App with JS for built
+### this project i used Create-React-App with JS for built
 
 
-# yarn or npm install - install dependencies
-# yarn start or npm start - run in localhost:3000
+###### yarn or npm install - install dependencies
+###### yarn start or npm start - run in localhost:3000
 
 
